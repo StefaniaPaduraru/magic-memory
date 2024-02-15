@@ -14,4 +14,4 @@ The Magic Memory Project focuses on applying algorithms and data structures to c
 
 ## Project Link
 
-Visit the [Magic Memory Poject]();
+Visit my [Magic Memory Project](https://stefaniapaduraru.github.io/magic-memory/);
