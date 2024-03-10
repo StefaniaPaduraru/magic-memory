@@ -18,4 +18,4 @@ The Magic Memory Project focuses on applying algorithms and data structures to c
 
 ## Project Link
 
-My Magic Memory Game [Magic Memory Project](https://stefaniapaduraru.github.io/magic-memory/);
+My [Magic Memory Game](https://stefaniapaduraru.github.io/magic-memory/);
