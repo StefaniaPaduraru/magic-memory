@@ -1,4 +1,4 @@
-# Magic Memory Project
+# Magic Memory Game
 
 This project is part of the course offered on [YouTube](https://youtube.com/playlist?list=PL4cUxeGkcC9iQ7g2eoNXHCJBBBz40S_Lm&si=vNINE9wyCogojBfj) by [Net Ninja](https://www.youtube.com/@NetNinja). You can find more information about the course at [Udemy](https://www.udemy.com/course/build-web-apps-with-react-firebase/).
 
@@ -12,6 +12,10 @@ The Magic Memory Project focuses on applying algorithms and data structures to c
 - Managing and dynamically updating the user interface.
 - Implementing and optimizing CSS transitions for a smoother user experience.
 
+### Screenshot 📸
+![image](https://github.com/StefaniaPaduraru/magic-memory/assets/100425781/3ab4374e-9821-493e-be21-02ca621fa6c8)
+
+
 ## Project Link
 
-Visit my [Magic Memory Project](https://stefaniapaduraru.github.io/magic-memory/);
+My Magic Memory Game [Magic Memory Project](https://stefaniapaduraru.github.io/magic-memory/);
